@@ -1,3 +1,2 @@
 # festival
-
-Descreva aqui as alterações/correções que fez
+        ordering = ["dia__data", "hora"]: ordena primeirro os dias do festival e depois a hora por ordem crescente.
